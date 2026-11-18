@@ -1,0 +1,20 @@
+,OR,CI_low,CI_high,p_value
+age_group = 35-49,1.837,1.7299,1.9507,0.0
+age_group = 50-64,2.111,1.9916,2.2376,0.0
+age_group = 65+,1.582,1.4959,1.6732,0.0
+sex = Male,1.5392,1.4827,1.5979,0.0
+smoking = Current,0.8302,0.7811,0.8824,0.0
+smoking = Former,1.419,1.3578,1.483,0.0
+income = 2 20-40K,1.114,0.9925,1.2504,0.0668
+income = 3 40-60K,1.2439,1.1096,1.3945,0.0002
+income = 4 60-80K,1.2494,1.1128,1.4028,0.0002
+income = 5 80K+,1.2748,1.1446,1.4198,0.0
+education = Post-secondary,0.8015,0.7418,0.8661,0.0
+education = Secondary,1.0252,0.9435,1.114,0.5567
+drinking = Occasional,1.25,1.1804,1.3237,0.0
+drinking = Regular,1.1139,1.0632,1.167,0.0
+region = Atlantic,1.3662,1.2753,1.4635,0.0
+region = British Columbia,0.7216,0.682,0.7634,0.0
+region = Prairies,1.1125,1.0556,1.1725,0.0001
+region = Quebec,0.8649,0.8211,0.9111,0.0
+region = Territories,0.9788,0.8755,1.0944,0.7069
